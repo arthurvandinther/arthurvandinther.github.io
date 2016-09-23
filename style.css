@@ -8,3 +8,11 @@ body {
   width: 960px;
   margin: 20px auto 20px auto;
 }
+h4 {
+  color: purple;
+  dont-size: 30px;
+}
+.awesome {
+  color: orange;
+  font-size: 36px;
+}
