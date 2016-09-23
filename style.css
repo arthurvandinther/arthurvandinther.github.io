@@ -10,7 +10,7 @@ body {
 }
 h4 {
   color: purple;
-  dont-size: 30px;
+  font-size: 30px;
 }
 .awesome {
   color: orange;
