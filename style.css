@@ -13,10 +13,29 @@ body {
 .italic {
   font-style: italic;
 }
+
+.font200 {
+  font-size: 200%;
+  font-weight: bold;
+}
+
 .font150 {
   font-size: 150%;
 }
 
+.font120 {
+  font-size: 120%;
+}
+
+.font60 {
+  font-size: 60%;
+}
+
+.font140 {
+  font-size: 140%;
+  color: green;
+  font-weight: bold;
+}
 /* SLIDER */
 
 @keyframes slidy {
