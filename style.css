@@ -10,6 +10,11 @@ body {
   margin: 20px auto 20px auto;
 }
 
+.bold {
+  font-weigt: bold;
+}
+
+
 .italic {
   font-style: italic;
 }
@@ -27,15 +32,49 @@ body {
   font-size: 120%;
 }
 
+.font130 {
+  font-size: 130%;
+  font-weight: bold;
+}
+
+.font120bold {
+  font-size: 120%;
+  font-weight: bold;
+}
+
 .font60 {
   font-size: 60%;
 }
-
+.blue {
+  color: #0040FF;
+  font-weight: bold;
+}
+.white {
+  color: white;
+}
 .font140 {
   font-size: 140%;
   color: green;
   font-weight: bold;
 }
+.font120red {
+  font-size: 120%;
+  color: darkred;
+  }
+
+#pv {
+}
+#info {
+}
+#other {
+}
+#samhoud {
+}
+#kellogg {
+}
+#background {
+}
+
 /* SLIDER */
 
 @keyframes slidy {
