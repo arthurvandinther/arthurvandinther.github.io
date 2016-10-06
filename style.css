@@ -9,7 +9,12 @@ body {
   width: 960px;
   margin: 20px auto 20px auto;
 }
-
+.jumbotron {
+  background-color: #e6e6ff;
+}
+.panel {
+  background-color: #e6e6ff;
+}
 .bold {
   font-weigt: bold;
 }
